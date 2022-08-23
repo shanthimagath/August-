@@ -1,0 +1,16 @@
+https://blog.softtek.com/en/token-based-api-authentication-with-spring-and-jwt
+1. spring.io => 
+	Web (Dependencies)
+
+
+2 . Only HelloWorldController
+
+
+3. Output 1: webpage
+	localhost:8080/hello
+	localhost:8080/hello?name=shan):
+
+4. output 2:postman
+	Get	:	http://localhost:8080/hello
+			
+			http://localhost:8080/hello?name=shan):

@@ -1,0 +1,23 @@
+https://blog.softtek.com/en/token-based-api-authentication-with-spring-and-jwt
+1. spring.io => 
+	Web (Dependencies)
+	&&
+	Paste the dependencies
+		1. security
+		2. json web token
+		3. and so on
+
+2 . Only HelloWorldController
+2.2 	User controller
+	
+3. dto
+	User 
+4. security=>JWTAuthorizationFilter
+
+5. application
+	change the code
+
+output
+	http://localhost:8080/hello
+	tick 
+
